@@ -10,7 +10,7 @@ Do the following:
 
   a. on the main page instead of the logo image show current date and time followed by a number of overall site visits
   
-  b. make possible to refresh the current date and time (in the logo) by clicking she Search button and avoiding page reload
- 3. upload your project to http://www.freewebhostingarea.com/
+  b. make it possible to refresh the current date and time (in the logo) by clicking the Search button and avoiding page reload
+ 3. upload your project to any free hosting (i.e. https://openshift.com)
 
  4. make a pull request containing URL of the uploaded project and your name to this repository
